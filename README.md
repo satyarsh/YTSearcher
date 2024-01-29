@@ -5,7 +5,7 @@ Why you ask? Simple! The homepage of YouTube sucks and it’s distracting when y
 
 ### ScreenShot :
 
-![ScreenShot]() 
+![ScreenShot](screenshot.png) 
  
 
 ### Features :
@@ -21,8 +21,8 @@ isBrave to True and isFirefox to false in the code.
 #### Installation :
   
 ```
-git clone
-cd /
+git clone https://github.com/satyarsh/YTSearcher.git
+cd YTSearcher/
 ```
 
 #### Usage :  
