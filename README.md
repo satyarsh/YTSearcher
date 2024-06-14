@@ -1,7 +1,8 @@
 ### Description :
 
 GUI Search bar for searching on YouTube Written in Java using the Swing framework.
-Why you ask? Simple! The homepage of YouTube sucks and it’s distracting when you’re tying to find useful information, plus it saves you some time by opening your browser and searching the results for you!
+Why you ask? Simple! The homepage of YouTube sucks and it’s distracting when you’re tying to find useful information, plus it saves you some time by opening your browser and searching the results for you! <br>
+You can automate the application lunch by using the batch script provided for Windows (Optional : You can also add the script to your system environment variable)
 
 ### ScreenShot :
 
