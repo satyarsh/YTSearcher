@@ -28,9 +28,9 @@ cd YTSearcher/
 
 #### Usage :  
 ```
-java YTSearcher.java
+java YTSearcher_V1.1.java
 
 Or
 
-javaw YTSearcher.java
+javaw YTSearcher_V1.1.java
 ```
